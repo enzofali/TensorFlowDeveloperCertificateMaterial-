@@ -10,7 +10,7 @@ This repo contains the material that I made while studying for the TensorFlow De
 ## Natural Language Processing
 - [DNN with Word-based Text Encoding](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Natural%20Language%20Processing/1_WordTokenizationDNN.ipynb)
 - [Conv1D with Subword Text Encoding](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Natural%20Language%20Processing/2_SubwordTokenization.ipynb)
--[Multiple Model Architectures with Word-based Text Encoding](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Natural%20Language%20Processing/3_PreDefinedEmbeddings.ipynb)
+- [Multiple Model Architectures with Word-based Text Encoding](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Natural%20Language%20Processing/3_PreDefinedEmbeddings.ipynb)
 - [Text Generator](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Natural%20Language%20Processing/4_TextGenerator.ipynb)
 
 ## Time Series Forecasting
