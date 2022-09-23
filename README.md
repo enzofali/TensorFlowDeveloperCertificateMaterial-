@@ -1,6 +1,6 @@
 # TensorFlow Developer Certificate Material
 
-This repo contains the material that I made while studying for the TensorFlow Developer certification, which covers everything given in the [Coursera Tensorflow Developer Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) and adds a Multi-Variate Time Series Forecasting notebook. I hope you enjoy the content and find it useful.
+This repo contains the material that I made while studying for the TensorFlow Developer Certification, which covers everything given in the [Coursera Tensorflow Developer Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice) and adds a Multi-Variate Time Series Forecasting notebook. I hope you enjoy the content and find it useful.
 
 ## Convolutional Neural Network
 - [Convolutional Neural Network for Binary Classification](https://github.com/Enzofali/TensorFlowDeveloperCertificateMaterial-/blob/main/Convolutional%20Neural%20Network/1_BinaryCNN.ipynb)
